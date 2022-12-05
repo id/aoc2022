@@ -1,0 +1,8 @@
+[package]
+name = "aoc2022"
+version = "0.0.1"
+
+[dependencies]
+aoc-runner = "0.3.0"
+aoc-runner-derive = "0.3.0"
+cached = "0.26.2"
